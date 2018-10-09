@@ -73,5 +73,10 @@ describe('Tamagotchi', function() {
     expect(stewart.healthLevel).toEqual(4);
     expect(stewart.restLevel).toEqual(0);
   })
+  it('should return this.sick = true if this.healthLevel <=2', function(){
+    jasmine.clock().tick(91001);
+    expect(stewart.healthLevel).toEqual(0);
+    expect(stewart.sick).toEqual(true);
+  })
 
 })
