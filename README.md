@@ -1,12 +1,12 @@
-# Project Title
+# Bitcoin Ticker
 
-#### Epicodus JavaScript exercise, Date
+#### Epicodus JavaScript exercise, 10-10-18
 
-#### By Your Name Here
+#### By Julianne Soifer
 
-## Description
+## This is a Bitcoin Price Ticker
 
-Add description here
+This program will allow users to obtain the current price of Bitcoin in a variety of fiat currencies as well as access historical data.  It is my first project incorporating an API.
 
 ## Specs
 
@@ -51,4 +51,4 @@ Add description here
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2018 **Your Name Here**
+Copyright (c) 2018 **Julianne Soifer**
